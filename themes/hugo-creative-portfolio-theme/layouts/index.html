@@ -1,8 +1,5 @@
 <head> 
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     {{ range .Site.Params.navlinks }}
-    {{ if .home }}
-    <meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
-    {{ end }}
     {{ end }}
   </head>
