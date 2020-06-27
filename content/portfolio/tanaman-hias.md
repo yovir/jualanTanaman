@@ -11,3 +11,7 @@ Diny bilang ga tau
 <!--more-->
 
 Diny ga jelas
+
+
+
+![](/images/uploads/whatsapp-image-2020-06-27-at-21.10.05.jpeg)
